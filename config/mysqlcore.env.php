@@ -1,7 +1,7 @@
 <?php
 Class Mysqlenv {
 
-    public static $SERVERNAME = "127.0.0.1";
+    public static $SERVERNAME = "cherry";
     public static $USERNAME = "root";
     public static $PASSWORD = "";
     public static $DB = "blaster_php";
